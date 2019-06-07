@@ -1,8 +1,10 @@
-import css from '../css/style.css'
+import css from"../css/style.css";
 
-// const Game = require("./game");
-// const furry = require("./furry");
-// const coin = require("./coin");
+const Game = require("./game");
+const furry = require("./furry");
+const coin = require("./coin");
+
+
 
 
 
